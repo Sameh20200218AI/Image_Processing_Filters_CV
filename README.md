@@ -107,8 +107,6 @@ This project helped me gain deeper insights into **Image Processing** techniques
 ## Contact
 If you have any questions or want to discuss more about this project, feel free to reach out!
 
-[LinkedIn](https://www.linkedin.com/in/samehraouf) | [GitHub](https://github.com/Sameh20200218AI)
-
 ## License
 This project is licensed under the **MIT License**.
 
